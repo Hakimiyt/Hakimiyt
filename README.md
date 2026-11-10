@@ -1,5 +1,4 @@
 # 💫 About Me:
-[![Profile Views](https://komarev.com/ghpvc/?username=hakimiyt&color=blue&style=flat-square&label=PROFILE+VIEWS)](https://github.com/hakimiyt)
 🔭 I’m currently studying Front-End Software Development at ADTEC JTM Campus Kuala Langat<br>👯 I’m looking to collaborate on front-end projects and UI/UX design<br>🤝 I’m looking for help with improving JavaScript skills and modern frameworks<br>🌱 I’m currently learning JavaScript, React Native, Flutter and more<br>💬 Ask me about building responsive websites and basic UI design<br>⚡ Fun fact: I enjoy turning ideas into interactive web interfaces
 
 
@@ -20,4 +19,6 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=hakimiyt&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
-[![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=hakimiyt&limit=5&theme=synthwave&combine_all_yearly_contributions=true)](https://github.com/Hakimiyt/pokemonfetch)
+[![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=hakimiyt&limit=5&theme=synthwave&combine_all_yearly_contributions=true)](https://github.com/Hakimiyt/pokemonfetch)<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=hakimiyt&color=blue&style=flat-square&label=PROFILE+VIEWS)](https://github.com/hakimiyt)
