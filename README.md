@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Front-End Software Development at ADTEC JTM Campus Kuala Langat<br>👯 I’m looking to collaborate on front-end projects and UI/UX design<br>🤝 I’m looking for help with improving JavaScript skills and modern frameworks<br>🌱 I’m currently learning HTML, CSS, JavaScript, Flutter and more<br>💬 Ask me about building responsive websites and basic UI design<br>⚡ Fun fact: I enjoy turning ideas into interactive web interfaces
+🔭 I’m currently studying Front-End Software Development at ADTEC JTM Campus Kuala Langat<br>👯 I’m looking to collaborate on front-end projects and UI/UX design<br>🤝 I’m looking for help with improving JavaScript skills and modern frameworks<br>🌱 I’m currently learning JavaScript, React Native, Flutter and more<br>💬 Ask me about building responsive websites and basic UI design<br>⚡ Fun fact: I enjoy turning ideas into interactive web interfaces
 
 
 ## 🌐 Socials:
