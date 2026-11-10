@@ -16,9 +16,13 @@
 </p>
 
 ## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hakimiyt&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hakimiyt&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ### 🔝 Top Contributed Repo
-[![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=hakimiyt&limit=5&theme=synthwave&combine_all_yearly_contributions=true)](https://github.com/Hakimiyt/pokemonfetch)<br>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=hakimiyt&limit=5&theme=synthwave&combine_all_yearly_contributions=true" />
+</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hakimiyt&color=blue&style=flat-square&label=PROFILE+VIEWS)](https://github.com/hakimiyt)
